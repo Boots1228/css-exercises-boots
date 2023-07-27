@@ -1,0 +1,14 @@
+.baby,
+.dada {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman',sans-serif;
+}
+/* forgot ',' between classes*/
+.baby{
+    background-color: #000;
+    color: rgb(255, 255, 255);
+}
+
+.dada {
+    background-color: #fff700;
+}
