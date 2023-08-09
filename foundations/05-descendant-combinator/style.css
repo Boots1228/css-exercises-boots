@@ -5,7 +5,7 @@
     text-align: center;
 }
 /*
-div p
-div .text
-.container p
+div p (every p nesting in <div></div>)>> type method
+div .text (class 'text' nesting in div) >> mixed class and type
+.container p (every p that nesting in class 'container') >> mixed class and type
 */
